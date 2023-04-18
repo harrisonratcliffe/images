@@ -1,2 +1,2 @@
-# images
-Ignore, I use this for the image hosting.
+# IGNORE
+I use this for the image hosting.
